@@ -1,0 +1,10 @@
+pandas
+streamlit
+plotly
+numpy
+folium
+streamlit_folium
+opencv-python
+ultralytics
+torch
+torchvision
