@@ -1,63 +1,61 @@
-🚦 Calculation of Vehicle Speed and Density
+# 🚦 Calculation of Vehicle Speed and Density
 
-A real-time traffic analysis project that calculates vehicle speeds, traffic density, and visualizes movement patterns from video feeds. Developed as a team lead project for the 4th Innovative Project Expo at Presidency University.
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-brightgreen?logo=opencv&logoColor=white)](https://opencv.org/)  
+[![YOLO](https://img.shields.io/badge/YOLO-Ultralyics-orange?logo=ultralytics&logoColor=white)](https://github.com/ultralytics/)  
 
-GitHub Repository: Link
+A **real-time traffic analysis project** that calculates vehicle speeds, traffic density, and visualizes movement patterns from video feeds. Developed as **Team Lead** for the **4th Innovative Project Expo at Presidency University**.  
 
-Video Demo: Link
+---
 
-Project Overview
+## 🎬 Demo
 
-The project leverages computer vision and real-time data processing to monitor traffic conditions. By analyzing video feeds, it detects vehicles, calculates their speeds, and measures traffic density. This allows users to gain actionable insights into traffic flow and congestion patterns. The system is optimized to handle multiple vehicles in real-time while maintaining performance.
+[Click here to watch the demo video](https://u.pcloud.link/publink/show?code=XZDBhD5ZG0WYB2CP3QBgHMuxNITPNbaMutkk)
 
-This project showcases skills in Python programming, OpenCV-based image processing, YOLO object detection, and data visualization, making it a strong example of practical, real-world problem-solving.
+---
 
-Key Achievements
+## 🌟 Project Highlights
 
-Developed a web application capable of displaying vehicle speed and density in real-time.
+- Developed a **web application** for vehicle speed and count, achieving **~50% accuracy** on sample video feeds.  
+- Designed an **OpenCV-based vehicle detection algorithm**, improving detection accuracy by **~15%**.  
+- Optimized **vehicle speed and density calculations**, achieving **~5% faster processing**.  
+- Demonstrated **real-time performance** with multiple vehicles in the frame.  
+- Created a **visual dashboard** with bounding boxes, speed metrics, and density graphs for easy interpretation.  
 
-Achieved ~50% accuracy in speed and count detection on two sample video feeds, demonstrating practical feasibility.
+---
 
-Designed an OpenCV-based vehicle detection algorithm, improving detection accuracy by ~15% compared to baseline approaches.
+## 🛠️ Tools & Technologies
 
-Optimized speed and density calculations, resulting in ~5% faster processing for real-time performance.
+- **Programming Language:** Python  
+- **Computer Vision:** OpenCV, YOLO (Ultralytics)  
+- **Data Handling:** NumPy, Pandas  
+- **Visualization:** OpenCV overlays, Matplotlib  
+- **Other Skills:** Algorithm optimization, video frame analysis, real-time dashboard development  
 
-Presented a fully visual dashboard with bounding boxes, speed metrics, and traffic density graphs, making data interpretation intuitive.
+---
 
-Tools & Technologies
+## 🚀 Skills Demonstrated
 
-Programming: Python
+- Real-time **object detection and vehicle tracking**  
+- **Algorithm design and optimization** for speed and accuracy  
+- **Data processing and visualization** for actionable insights  
+- Leadership & project management as **team lead**  
+- Practical **problem-solving** in real-world traffic scenarios  
 
-Computer Vision: OpenCV, YOLO (Ultralytics)
+---
 
-Data Handling: NumPy, Pandas
+## 💡 Why This Project Matters
 
-Visualization: OpenCV overlays, Matplotlib graphs, real-time dashboard
+This project demonstrates the **application of computer vision and data analysis** to real-world traffic problems:  
 
-Other Skills: Algorithm optimization, video frame analysis, performance tuning
+- Analyze live video feeds for multiple moving vehicles  
+- Calculate vehicle speed and traffic density accurately in real-time  
+- Optimize algorithms for high-performance scenarios  
+- Present data in a **professional, intuitive dashboard**  
 
-Skills Demonstrated
+It’s an excellent **portfolio project** to showcase technical depth, analytical thinking, and practical implementation skills — perfect for interviews.  
 
-Real-time object detection and vehicle tracking
+---
 
-Algorithm design and optimization for high-performance applications
-
-Data processing and visualization for actionable insights
-
-Leadership & project management: Led a small team to plan, execute, and present the project
-
-Problem-solving in real-world scenarios using AI and computer vision
-
-Why This Project Matters
-
-Traffic monitoring and analysis is a high-impact application of computer vision and data science. This project demonstrates the ability to:
-
-Process video streams and detect multiple moving objects in real-time
-
-Calculate dynamic metrics like speed and density accurately
-
-Optimize algorithms for performance under real-world constraints
-
-Present data in a clear, professional dashboard suitable for decision-making
-
-It is a strong portfolio project for interviews, demonstrating technical depth, analytical skills, and the ability to implement real-world solutions.
+**GitHub Repository:** [Link](https://github.com/AbdulRahman8641/Calculation-of-vehicle-speed-Density-using-OpenCV)  
+**Video Demo:** [Link](https://u.pcloud.link/publink/show?code=XZDBhD5ZG0WYB2CP3QBgHMuxNITPNbaMutkk)
